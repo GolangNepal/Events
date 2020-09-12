@@ -16,6 +16,7 @@ Write and deploy eBPF userspace-probes native in Linux VMs v4.9+ to dynamically 
 <details><summary><strong>Resources</strong></summary>
 
 **Meetup Resources:**
+* [Video](https://www.youtube.com/watch?v=IYb5tEGx9pg)
 * [Slides](https://docs.google.com/presentation/d/1EqM8hSkRMdBghzH1sLlK0DJmSKeWIrdlLC6GAMZ1W2Y/edit#slide=id.g91c85992bf_0_159)
 * [Meetup event link](https://www.meetup.com/Golang-Kathmandu/events/272932818)
 * [Learn eBPF](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html)
