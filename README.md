@@ -28,3 +28,31 @@ Write and deploy eBPF userspace-probes native in Linux VMs v4.9+ to dynamically 
 * [GitHub](https://github.com/pixie-labs/pixie/tree/main/demos/simple-gotracing)
 
 </details>
+
+## **DIY Gosec: Detect Complex code patterns using semantic grep**
+
+<img src="https://i.imgur.com/MMbLlRb.png" width=514/>
+
+**Date:** December 5, 2020
+
+**Excerpt:**
+
+Semgrep is a fast, open-source, static analysis tool that excels at expressing code standards — without complicated queries — and surfacing bugs early at editor, commit, and CI time. Precise rules look like the code you’re searching; no more traversing abstract syntax trees or wrestling with regexes.
+
+
+<details><summary><strong>Resources</strong></summary>
+
+**Meetup Resources:**
+* [Video](https://www.youtube.com/watch?v=xPeWNyBu_AY)
+* [Slides](https://drive.google.com/file/d/1tJbL1_qgqEJ-jIOIgCgw9Ya9O4ijTMvz/view)
+* [Meetup event link](https://www.meetup.com/Golang-Kathmandu/events/274741469/)
+* [Learn about semgrep](https://semgrep.dev/)
+
+---
+
+**Bence Nagy**
+* [Twitter](https://twitter.com/underyx)
+* [Site](https://underyx.me/links)
+
+</details>
+
